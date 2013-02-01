@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/josephmoscatiello/Dropbox/masters/ta/CPS 630/Lab2/MyFirstProject/.metadata/.plugins/org.eclipse.jdt.core
+1519498844.index
+4255239681.index
+2966835081.index
